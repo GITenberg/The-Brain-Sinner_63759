@@ -1,0 +1,31 @@
+_repo: The-Brain-Sinner_63759
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nourse, Alan Edward
+    aliases:
+    - Nourse, Alan E. (Alan Edward)
+    - Edwards, Al
+    birthdate: 1928
+    deathdate: 1992
+    gutenberg_agent_id: '25579'
+    url: http://www.gutenberg.org/2009/agents/25579
+    wikipedia: https://en.wikipedia.org/wiki/Alan_E._Nourse
+description: ''
+gutenberg_issued: '2020-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Telepathy -- Fiction'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- GITenberg
+title: The Brain Sinner
+url: http://www.gutenberg.org/ebooks/63759
